@@ -2,7 +2,7 @@
 
 ### About me
 
-- 📖 Computer Science student at <a href = "https://www.usu.ac.id/id">Universitas Sumatera Utara</a>, Indonesia
+- 📖 Computer Science student at <a href = "https://www.usu.ac.id/en">Universitas Sumatera Utara</a>, Indonesia
 - 💻 I’m currently learning Flutter with Python as backend
 - 🐢 I'm a turtle lovers
 
