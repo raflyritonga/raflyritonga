@@ -20,8 +20,6 @@
 <a href="https://www.cprogramming.com/" alt="C"><img src="https://img.icons8.com/color/000000/c-programming.png" width="40" height="40" style= margin-right:15px;/></a>
 <a href="https://www.w3schools.com/CPP/" alt="C++"><img src="https://img.icons8.com/color/000000/c-plus-plus-logo.png" width="40" height="40" style= margin-right:15px;/></a>
 <a href="https://www.python.org/" alt="Python"><img src="https://img.icons8.com/color/000000/python--v1.png" width="40" height="40" style= margin-right:15px;/></a>
-<a href="https://dart.dev/" alt="Dart"><img src="https://img.icons8.com/color/000000/dart.png" width="40" height="40" style= margin-right:15px;/></a>
-<a href="https://flutter.dev/" alt="iFlutter"><img src="https://img.icons8.com/color/000000/flutter.png" width="40" height="40" style= margin-right:15px;/></a>
 <a href="https://git-scm.com/" alt="Git"><img src="https://img.icons8.com/color/000000/git.png" width="40" height="40" style= margin-right:15px; /></a>
 
 <!--
