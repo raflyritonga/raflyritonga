@@ -1,5 +1,5 @@
 <div align="center">
-    <h1>Hello! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px" height="30px"><br/>I’m Muhammad Rafly Ritonga 🐢 </h1>
+    <h1>Hello <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px" height="30px"><br/>I’m Muhammad Rafly Ritonga</h1>
     <h3>Student at <a href="https://www.usu.ac.id" title="Transformation Towards the Ultimate Strategy for World Class University">Universitas Sumatera Utara</a>, Indonesia</h3>
 </div>
     
