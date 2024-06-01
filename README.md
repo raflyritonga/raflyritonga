@@ -1,10 +1,24 @@
+div align="center">
+    <h1>Hello! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px" height="30px">,<br/>I’m Muhammad RAfly Ritonga</h1>
+    <h3>Student at <a href="https://www.usu.ac.id" title="Transformation Towards the Ultimate Strategy for World Class University">Universitas Sumatera Utara</a>, Indonesia</h3>
+</div>
+    
+
+  
+  <div align="center">
+    <img src="https://komarev.com/ghpvc/?username=raflyritonga&style=for-the-badge&label=profile+views"> &nbsp;
+    <img src="https://img.shields.io/github/last-commit/raflyritonga/raflyritonga?style=for-the-badge">
+  </div>
+
+<br/>
+
+
 <img src = "assets/biobanner.png">
 
 ### About me
 
 - 📖 Computer Science student at <a href = "https://www.usu.ac.id/en">Universitas Sumatera Utara</a>, Indonesia
 - 🐢 I'm a turtle lovers
-
 
 ### Connect with me
 
