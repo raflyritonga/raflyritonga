@@ -1,19 +1,6 @@
-<div align="center">
-    <h1>Hello <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px" height="30px"><br/>I’m Muhammad Rafly Ritonga</h1>
-    <h3>Student at <a href="https://www.usu.ac.id" title="Transformation Towards the Ultimate Strategy for World Class University">Universitas Sumatera Utara</a>, Indonesia</h3>
-</div>
-    
-<div align="center">
-    <img src="https://komarev.com/ghpvc/?username=raflyritonga&style=for-the-badge&label=profile+views"> &nbsp;
-    <img src="https://img.shields.io/github/last-commit/raflyritonga/raflyritonga?style=for-the-badge">
-</div>
-
-<br/>
-
 ### About Me
 
 - 🌏 Looking for any opportunities to collaborating, contributing, and open to learning new things
-- 👨‍🦱 My full name is **Muhamamd Rafly Ritonga**
 - :school: I'm currently a student at **Universitas Sumatera Utara**
 - :books: Majoring **Computer Science**
 - :monocle_face: I'm interested in **backend development**, **data engineering and analytics**, **microservice and cloud architecture**
@@ -127,14 +114,6 @@
 	<source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 	<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </picture>
-    
-### &nbsp;Github Stats
-<p align="left">
-<a href="https://github.com/raflyritonga">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=raflyritonga&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=raflyritonga&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
 
 <hr/>
 
@@ -142,5 +121,4 @@
 <p align="left">
 <a href="https://linkedin.com/in/raflyritonga"><img src="https://img.shields.io/badge/-Muhammad%20Rafly%20Ritonga-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:mraflyritonga@gmail.com"><img src="https://img.shields.io/badge/-mraflyritonga@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/raflyritonga"><img src="https://img.shields.io/badge/-@raflyritonga-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
