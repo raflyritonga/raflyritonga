@@ -1,9 +1,8 @@
 ### About Me
 
 - 🌏 Looking for any opportunities to collaborating, contributing, and open to learning new things
-- :school: I'm currently a student at **Universitas Sumatera Utara**
 - :books: Majoring **Computer Science**
-- :monocle_face: I'm interested in **backend development**, **data engineering and analytics**, **microservice and cloud architecture**
+- :monocle_face: I'm interested in **backend development**, **data engineering**, **microservice and cloud architecture**
 - 🐢 **I'm a tutrle lover**
 
 ### &nbsp;Tech I Use
@@ -114,8 +113,6 @@
 	<source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 	<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </picture>
-
-<hr/>
 
 ### &nbsp;Connect with Me
 <p align="left">
