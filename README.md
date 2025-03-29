@@ -113,9 +113,3 @@
 	<source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 	<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </picture>
-
-### &nbsp;Connect with Me
-<p align="left">
-<a href="https://linkedin.com/in/raflyritonga"><img src="https://img.shields.io/badge/-Muhammad%20Rafly%20Ritonga-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:mraflyritonga@gmail.com"><img src="https://img.shields.io/badge/-mraflyritonga@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-</p>
