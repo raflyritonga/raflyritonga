@@ -3,7 +3,7 @@
 - 🌏 Looking for any opportunities to collaborating, contributing, and open to learning new things
 - :books: Majoring **Computer Science**
 - :monocle_face: I'm interested in **backend development**, **data engineering**, **microservice and cloud architecture**
-- 🐢 **I'm a tutrle lover**
+- 🐢 **I'm a turtle lover**
 
 ### &nbsp;Tech I Use
 
